@@ -25,5 +25,4 @@ A Raspberry Pi project that uses an RFID scanner to play Spotify albums.
 - Improve communication between C++ (RFID) and Python (Spotify) with real-time socket messages instead of launching scripts
 - Log file with timestamps of every scan and album played
 - Custom RFID case/enclosure
-- Connect Pi to battery pack for portability
-- Vinyl-style RFID tags to feel even more like "vinyls"
+- Album cover sleeves for RFID tags to feel even more like "vinyls"
