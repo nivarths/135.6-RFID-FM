@@ -1,6 +1,6 @@
 # Digital Record Player
 
-A Raspberry Pi project that uses an RFID scanner to play Spotify albums, emulating the vinyl record experience.
+A Raspberry Pi project that uses an RFID scanner to play Spotify albums.
 
 ## Features
 - RFID scanning with PN532
