@@ -12,5 +12,18 @@ A Raspberry Pi project that uses an RFID scanner to play Spotify albums, emulati
 - C++ (RFID scanning)
 - Python (Spotify API control)
 - Raspberry Pi OS
+- PN532 NFC RFID Scanner
 
+## Skills
+- C++ programming for RFID hardware control
+- Python programming for Spotify API integration
+- Raspberry Pi hardware setup and GPIO for communication (SPI with PN532 NFC RFID scanner)
+- Soldering and wiring electronics (RFID scanner connections)
 
+## Improvements/Additions
+- Allow switching between multiple Spotify accounts
+- Improve communication between C++ (RFID) and Python (Spotify) with real-time socket messages instead of launching scripts
+- Log file with timestamps of every scan and album played
+- Custom RFID case/enclosure
+- Connect Pi to battery pack for portability
+- Vinyl-style RFID tags to feel even more like "vinyls"
