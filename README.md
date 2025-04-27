@@ -26,3 +26,5 @@ A Raspberry Pi project that uses an RFID scanner to play Spotify albums.
 - Log file with timestamps of every scan and album played
 - Custom RFID case/enclosure
 - Album cover sleeves for RFID tags to feel even more like "vinyls"
+
+![IMG_2897](https://github.com/user-attachments/assets/dd38e200-1755-4341-aaeb-89feb5bbff93)
