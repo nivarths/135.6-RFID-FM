@@ -9,9 +9,9 @@ A Raspberry Pi project that uses an RFID scanner to play Spotify albums, emulati
 - Real-time album playback
 
 ## Tech Stack
-- C++ (RFID scanning)
-- Python (Spotify API control)
-- Raspberry Pi OS
+- C++ (RFID Scanneing)
+- Python (Spotify API)
+- Raspberry Pi
 - PN532 NFC RFID Scanner
 
 ## Skills
