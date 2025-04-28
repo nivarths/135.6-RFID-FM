@@ -1,6 +1,6 @@
-# Digital Record Player
+# 135.6 RFID FM
 
-A Raspberry Pi project that uses an RFID scanner to play Spotify albums.
+A Raspberry Pi based digital record player that uses an RFID scanner to play Spotify albums.
 
 ## Features
 - RFID scanning with PN532
