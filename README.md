@@ -22,7 +22,6 @@ A Raspberry Pi based digital record player that uses an RFID scanner to play Spo
 
 ## Improvements/Additions
 - Allow switching between multiple Spotify accounts
-- Improve communication between C++ (RFID) and Python (Spotify) with real-time socket messages instead of launching scripts
 - Log file with timestamps of every scan and album played
 - Custom RFID case/enclosure
 - Album cover sleeves for RFID tags to feel even more like "vinyls"
